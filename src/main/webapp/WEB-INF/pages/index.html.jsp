@@ -1,4 +1,4 @@
-
+<%@ page import="org.maven.com.PackageInfo" %>
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
